@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "name": "Sekretariat Daerah"
+    },
+    {
+        "id": 2,
+        "name": "Biro Pemerintahan Dan Otonomi Daerah"
+    },
+    {
+        "id": 3,
+        "name": "Biro Hukum Dan Hak Asasi Manusia"
+    },
+    {
+        "id": 4,
+        "name": "Biro Kesejahteraan Rakyat"
+    },
+    {
+        "id": 5,
+        "name": "Biro Perekonomian"
+    },
+    {
+        "id": 6,
+        "name": "Biro Biro Badan Usaha Milik Daerah, Investasi Dan Administrasi Pembangunan"
+    },
+    {
+        "id": 7,
+        "name": "Biro Biro Pengadaan Barang Dan Jasa"
+    },
+    {
+        "id": 8,
+        "name": "Biro Organisasi"
+    },
+    {
+        "id": 9,
+        "name": "Biro Administrasi Pimpinan"
+    },
+    {
+        "id": 10,
+        "name": "Biro Umum"
+    },
+    {
+        "id": 11,
+        "name": "Sekretariat DPRD"
+    },
+    {
+        "id": 12,
+        "name": "Badan Penghubung"
+    },
+    {
+        "id": 13,
+        "name": "Badan Pendapatan Daerah"
+    },
+    {
+        "id": 14,
+        "name": "Badan Pengelolaan Keuangan Dan Aset Daerah"
+    },
+    {
+        "id": 15,
+        "name": "Badan Perencanaan Pembangunan Daerah"
+    },
+    {
+        "id": 16,
+        "name": "Badan Kepegawaian Daerah"
+    },
+    {
+        "id": 17,
+        "name": "Badan Pengembangan Sumber Daya Manusia"
+    },
+    {
+        "id": 18,
+        "name": "Badan Penelitian Dan Pengembangan Daerah"
+    },
+    {
+        "id": 19,
+        "name": "Badan Kesatuan Bangsa Dan Politik"
+    },
+    {
+        "id": 20,
+        "name": "Badan Penanggulangan Bencana Daerah"
+    },
+    {
+        "id": 21,
+        "name": "Dinas Pendidikan"
+    },
+    {
+        "id": 22,
+        "name": "Dinas Kesehatan"
+    },
+    {
+        "id": 23,
+        "name": "Dinas Sosial"
+    },
+    {
+        "id": 24,
+        "name": "Dinas Tenaga Kerja Dan Transmigrasi"
+    },
+    {
+        "id": 25,
+        "name": "Dinas Perhubungan"
+    },
+    {
+        "id": 26,
+        "name": "Dinas Pariwisata Dan Kebudayaan"
+    },
+    {
+        "id": 27,
+        "name": "Dinas Bina Marga Dan Penataan Ruang"
+    },
+    {
+        "id": 28,
+        "name": "Dinas Sumber Daya Air"
+    },
+    {
+        "id": 29,
+        "name": "Dinas Perumahan Dan Permukiman"
+    },
+    {
+        "id": 30,
+        "name": "Dinas Energi Dan Sumber Daya Mineral"
+    },
+    {
+        "id": 31,
+        "name": "Dinas Koperasi Dan Usaha Kecil"
+    },
+    {
+        "id": 32,
+        "name": "Dinas Perindustrian Dan Perdagangan"
+    },
+    {
+        "id": 33,
+        "name": "Dinas Tanaman Pangan Dan Hortikultura"
+    },
+    {
+        "id": 34,
+        "name": "Dinas Ketahanan Pangan Dan Peternakan"
+    },
+    {
+        "id": 35,
+        "name": "Dinas Kelautan Dan Perikanan"
+    },
+    {
+        "id": 36,
+        "name": "Dinas Kehutanan"
+    },
+    {
+        "id": 37,
+        "name": "Dinas Perkebunan"
+    },
+    {
+        "id": 38,
+        "name": "Dinas Pemuda Dan Olahraga"
+    },
+    {
+        "id": 39,
+        "name": "Dinas Komunikasi Dan Informatika"
+    },
+    {
+        "id": 40,
+        "name": "Dinas Kependudukan Dan Pencatatan Sipil"
+    },
+    {
+        "id": 41,
+        "name": "Dinas Lingkungan Hidup"
+    },
+    {
+        "id": 42,
+        "name": "Dinas Perpustakaan Dan Kearsipan Daerah"
+    },
+    {
+        "id": 43,
+        "name": "Dinas Pemberdayaan Perempuan, Perlindungan Anak, Dan Keluarga Berencana"
+    },
+    {
+        "id": 44,
+        "name": "Dinas Pemberdayaan Masyarakat Dan Desa"
+    },
+    {
+        "id": 45,
+        "name": "Dinas Penanaman Modal Dan Pelayanan Terpadu Satu Pintu"
+    },
+    {
+        "id": 46,
+        "name": "Inspektorat Daerah"
+    },
+    {
+        "id": 47,
+        "name": "Satuan Polisi Pamong Praja"
+    },
+    {
+        "id": 48,
+        "name": "Masyarakat"
+    }
+]
